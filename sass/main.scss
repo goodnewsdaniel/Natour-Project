@@ -1,0 +1,32 @@
+/***Partials and Imports***/
+
+/*Abstracts Folder*/
+@import "abstracts/functions";
+@import "abstracts/mixins";
+@import "abstracts/variables";
+@import "abstracts/globals";
+
+/*Base Folder*/
+@import "base/animations";
+@import "base/base";
+@import "base/typography";
+@import "base/utilities";
+
+/*Components Folder*/
+@import "components/button";
+@import "components/card";
+@import "components/composition";
+@import "components/feature-box";
+@import "components/story";
+@import "components/bg-video";
+@import "components/form";
+@import "components/popup";
+
+/*Layout folder*/
+@import "layout/navigation";
+@import "layout/header";
+@import "layout/grid";
+@import "layout/footer";
+
+/*Pages Folder*/
+@import "pages/home";

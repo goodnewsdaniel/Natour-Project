@@ -1,0 +1,3 @@
+@function colorGlobals($colorGlobals) {
+  @return map-get($colorGlobals: $colorName);
+}
